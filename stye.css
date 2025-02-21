@@ -1,0 +1,5 @@
+{
+    "scripts": {
+      "build": "tailwindcss -o dist/styles.css --watch"
+    }
+  }
